@@ -52,5 +52,3 @@ A Special thanks to the follow, without whom this project would not be possible:
  - [John Hopkins University](https://github.com/CSSEGISandData/COVID-19)
  - [REST Countries](https://restcountries.eu/) -- for flags
 
-## Licencse
-MIT © [shayant98](https://github.com/shayant98)
